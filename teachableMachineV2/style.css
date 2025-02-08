@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#image-container {
+    margin-bottom: 20px;
+}
+
+#image-container img {
+    max-width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+#prediction-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.prediction-item {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.emoji {
+    font-size: 30px;
+    transition: font-size 0.3s ease-in-out;
+}
