@@ -1,3 +1,4 @@
-# Repo para subir los csv que tendremos que usar en linea
-- Bike Rentals
-- Penguins Palmer Archipelago
+# Repo para subir archivos que tendre que usar en linea o mirrors de proyectos subidos a hosts online
+- CSVs para entrenar modelos
+- CSVs con datos para Sistemes de Big Data/Big Data Aplicat
+- HTML/CSS/etc para programación
